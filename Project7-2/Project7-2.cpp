@@ -1,3 +1,11 @@
+/*
+*Author: Chase McCluskey
+*Date: 10/17/2024
+*File: LabProblem7.2
+*
+* Description: Using a data set of 3 numbers find if they are sorted, different, and/or same 
+*/
+
 #include <iostream>
 
 using namespace std;
